@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "G:/VSCode/VsCode/learncode"
+		},
+		{
+			"path": "G:/VSCode/VsCode/learnJS_myself/learnJS_myself"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5506,
+		"liveServer.settings.multiRootWorkspaceName": "learnJS_myself"
+	}
+}
